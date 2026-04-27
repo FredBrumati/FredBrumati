@@ -9,12 +9,12 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FredBrumati&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredBrumati&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FredBrumati&show_icons=true&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredBrumati&layout=compact&theme=radical" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FredBrumati&theme=radical" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=FredBrumati&theme=radical&cache_seconds=1800" height="200"/>
 </p>
 
 ---
@@ -54,8 +54,8 @@ Scripts para automação de tarefas e aumento de produtividade.
 
 ## 📫 Contato
 
-💼 LinkedIn: (adicione aqui)
-📧 Email: (opcional)
+💼 LinkedIn: (https://www.linkedin.com/in/frederico-faben-brumati-bb5332352/)
+📧 Email: (brumatifrederico@gmail.com)
 
 ---
 
